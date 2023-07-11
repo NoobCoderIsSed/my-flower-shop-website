@@ -243,4 +243,7 @@ body {
     gap: 24px;
     display: flex;
 }
+.latest{
+    background-image: url('../img/Rectangle\ 9.png');
+}
 /* Footer */
