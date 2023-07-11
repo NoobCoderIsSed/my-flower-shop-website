@@ -7,7 +7,7 @@ body {
 
 .header {
     background: #E554731A;
-    width: 2000px;
+    width: 2200px;
     height: 850px;
 
 }
@@ -188,7 +188,7 @@ body {
 .sale {
     display: flex;
     text-align: center;
-    width: 2000px;
+    width: 2200px;
     height: 620px;
     flex-shrink: 0;
     border-radius: 8px;
@@ -314,18 +314,18 @@ body {
 
 /* Footer */
 .footer-container {
-    justify-content: center;
+    justify-content: left;
     text-align: center;
     gap: 0px;
+    margin-right: 200px;
     margin-top: 100px;
 }
 
 footer {
     margin-top: 100px;
     background-color: black;
-    width: 1922px;
-    height: 449px;
-    flex-shrink: 0;
+    width: 2200px;
+    height: 450px;
 }
 
 .footer-title {
@@ -360,4 +360,35 @@ footer {
     font-weight: 400;
     line-height: normal;
     text-align: center;
+    margin-right: 150px;
+}
+.best-seller{
+    font-size: 40px;
+}
+.bst-first{ 
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    padding-left: 30px;
+}
+.bst-second{
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+}
+.bst-third{
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    margin-right: 150px;
+
 }
